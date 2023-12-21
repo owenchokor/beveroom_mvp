@@ -1,2 +1,2 @@
-# beveroom_mvp-
+# beveroom_mvp
 MVP model of beveroom reservation system
